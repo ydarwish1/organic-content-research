@@ -1,25 +1,25 @@
 ---
 name: organic-content-research
-description: Does short-form content research for you. Finds the top creators in a niche (GTA 6 by default), finds the Shorts, Reels and TikToks that got 10x or more of that creator's normal views, splits every winner into topic and format, and then puts a winning format around your own idea. Use when you say "content research", "find outliers in [niche]", "what's blowing up in [niche]", "split these into topic and format", or "put this format around my idea".
+description: Does short-form content research for any niche. You fill in the niche. It finds the top creators, finds the Shorts, Reels and TikToks that got 10x or more of that creator's normal views, splits every winner into topic and format, and then puts a winning format around your own idea. Use when you say "content research", "find outliers in [niche]", "what's blowing up in [niche]", "split these into topic and format", or "put this format around my idea".
 ---
 
 # Organic content research
 
-Everybody is about to post about GTA 6, and most of it will flop. This skill finds what already worked, so you copy the pattern, not the video.
+Most videos about a hot topic flop. This skill finds what already worked in your niche, so you copy the pattern, not the video.
 
 The whole method is two columns:
 
 - **Topic:** what the video is about. The information or the situation.
-- **Format:** how it is shown. Skit, meme edit, voiceover over gameplay, side-by-side, silent animation and so on.
+- **Format:** how it is shown. Skit, meme edit, voiceover over footage, side-by-side, silent animation and so on.
 
 A video wins when a good topic meets a good format. When you can see both columns, you can take any topic and put it in a format that already won.
 
 ## Your settings
 
-Change these, or say them when you run the skill.
+Fill these in, or say them when you run the skill. If the niche is blank, ask for it before anything else.
 
-- Niche: GTA 6
-- Platform: YouTube Shorts (Instagram Reels and TikTok work the same way)
+- Niche: [YOUR NICHE]
+- Platform: [YouTube Shorts, Instagram Reels or TikTok]
 - Window: the last 30 days
 - Creators to check: 10 to 20
 - Outlier bar: 10x the creator's normal views
@@ -77,7 +77,3 @@ Done when you have 3 versions you could film today.
 - Link every video, so anyone can check it.
 - Say the date you pulled the numbers. Views keep growing.
 - Copy the pattern, never the video. Use your own footage, your own words and your own idea.
-
-## Example
-
-The finished GTA 6 table, made with this method from 3,086 Shorts across 121 channels, is in [`gta6-shorts-breakdown.md`](../../gta6-shorts-breakdown.md) at the top of this repo.
